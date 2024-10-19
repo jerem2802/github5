@@ -1,3 +1,3 @@
-REMOTE
+LOCAL
+
 # github5
-exercice github5
